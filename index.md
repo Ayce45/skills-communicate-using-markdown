@@ -4,3 +4,9 @@
 Simple content
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Simple code exemple
+
+``` javascript
+var myVar = "Hello, world!";
+```
